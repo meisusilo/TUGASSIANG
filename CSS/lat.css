@@ -1,0 +1,77 @@
+.header .head{
+	background-color: black;
+	color: white;
+}
+.header .head .bmt{
+	margin-right: 30px;
+	margin-left: 130px;
+}
+.header .head .bmt b{
+	color: orange;
+}
+
+.header{
+	height: 100px;
+	width: 100%;
+}
+.head{
+	height: 30px;
+	width: 100%;
+}
+.subhead{
+	height: 70px;
+	width: 100%;
+	padding top: 20px;
+	margin-top: 20px;
+}
+
+.sub1{
+	height: 70px;
+	width: 50%;
+	float: left;
+}
+
+.sub2{
+	height: 70px;
+	width: 50%;
+	float: right;
+}
+
+.gambar{
+	height: 70px;
+	width: 30%;
+	float: left;
+}
+
+.nama{
+	height: 70px;
+	width: 70%;
+	float: right;
+}
+.bgn{
+	height: 30px;
+	width: 100%;
+}
+.cc{
+	height: 40px;
+	width: 100%;
+}
+ .nama .bgn .pt{
+	font-size: 20px;
+	flood-color-color: orange;
+	color: orange;
+	padding: top;
+	margin: 0px;
+}
+.logo{
+	height: 70px;
+	width: 70px;
+	float: right;
+}
+
+.nama .cc .company{
+	float: center;
+	padding: top;
+	margin: 0px;
+}
+
