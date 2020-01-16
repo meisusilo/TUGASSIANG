@@ -75,3 +75,19 @@
 	margin: 0px;
 }
 
+li{
+	display: inline;
+	list-style: none;
+	margin-right: 30px;
+	font-size: 18;
+	flood-color: orange;
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: orange;
+}
